@@ -1,6 +1,13 @@
 ## 🌐 Meus Projetos Online (GitHub Pages)
 
+ PROJETOS PESSOAIS
 - 🔐 **Tela de Login**  
   https://didantas2.github.io/tela_login/
 
-- 🌟 Outros projetos em breve...
+
+
+PROJETOS ACADêMICOS
+**Portal de Notícias**
+
+https://didantas2.github.io/projeto-Site_de_Not-cias/
+
