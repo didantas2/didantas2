@@ -6,7 +6,7 @@
 
 
 
-PROJETOS ACADêMICOS
+PROJETOS ACADêMICOS <br>
 **Portal de Notícias**
 
 https://didantas2.github.io/projeto-Site_de_Not-cias/
