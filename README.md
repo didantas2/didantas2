@@ -11,5 +11,5 @@ PROJETOS ACADêMICOS <br>
 
 https://didantas2.github.io/projeto-Site_de_Not-cias/
 
-** Site Chalé-Hotel**
+** Site Chalé-Hotel** <br>
 https://didantas2.github.io/Chal--Hotel/
